@@ -5,7 +5,7 @@
 To analyze mobile phone sales data across various cities in India using Power BI, enabling strategic decision-making for stakeholders by visualizing trends, sales performance, customer behavior, and payment preferences.
 
 # Dataset Used:
-Source: Day - 30 - Mobile Sales Data.xlsx
+Source: Mobility_Mart.xlsx
 
 # Contents:
 Sales data by brand and model
